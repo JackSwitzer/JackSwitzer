@@ -30,20 +30,14 @@ I am a Third-Year Applied Mathematics and Computer Engineering Student at Queen'
 
 ## 📊 Jack's GitHub Stats:
 
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackSwitzer&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackSwitzer&layout=compact&theme=radical)
 
----
-
-## 🔥 GitHub Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackSwitzer&theme=radical)
 
 ---
 
-### 🔍 Useful Stats:
-
-- **Commit Frequency**: Shows your coding consistency over time.
-- **Most Used Languages**: Get insights into which programming languages you use most across repositories.
-- **Contribution Streak**: Track your daily commit streak, including your **current streak** and **max streak**.
 
