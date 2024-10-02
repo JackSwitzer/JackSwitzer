@@ -3,7 +3,7 @@
 I am a Third-Year Applied Mathematics and Computer Engineering Student at Queen's University, with interests in training large neural networks, artificial intelligence, and quantitative finance.
 
 🚀 I’m currently working on:
-- **Putnam Classification & Prediction**: Developing a classsification and prediction model for the Putnam Math Competition. Check out the project [here](https://github.com/JackSwitzer/PutnamPrediction).
+- **Putnam Classification & Prediction**: Developing models for predicting Putnam exam performance based on classification techniques. Check out the project [here](https://github.com/JackSwitzer/PutnamPrediction).
 - **McGill Finance Hackathon**: Competing in the McGill Finance Hackathon, focusing on quantitative trading strategies and data-driven financial predictions.
 
 📫 Reach me at jackswitzer3@gmail.com or jack.switzer@queensu.ca
@@ -23,6 +23,9 @@ I am a Third-Year Applied Mathematics and Computer Engineering Student at Queen'
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackSwitzer&layout=compact&theme=radical)
 
+---
+
+## 🔥 GitHub Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackSwitzer&theme=radical)
 
 ---
@@ -31,6 +34,4 @@ I am a Third-Year Applied Mathematics and Computer Engineering Student at Queen'
 
 - **Commit Frequency**: Shows your coding consistency over time.
 - **Most Used Languages**: Get insights into which programming languages you use most across repositories.
-- **Contribution Streak**: Track your daily commit streak to see how active you are.
-
----
+- **Contribution Streak**: Track your daily commit streak, including your **current streak** and **max streak**.
