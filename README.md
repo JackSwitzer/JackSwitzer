@@ -32,7 +32,7 @@ I am a Third-Year Applied Mathematics and Computer Engineering Student at Queen'
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackSwitzer&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackSwitzer&count_private=true&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackSwitzer&layout=compact&theme=radical)
 
