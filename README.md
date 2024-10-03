@@ -1,43 +1,13 @@
-# Hi 👋 I'm Jack Switzer
+# Jack Switzer
 
-I am a Third-Year Applied Mathematics and Computer Engineering Student at Queen's University, with interests in training large neural networks, artificial intelligence, and quantitative finance.
+3rd Year Applied Math & Comp Eng @ Queen's University
 
-🚀 I’m currently working on:
-- **Putnam Classification & Prediction**: Developing models for predicting Putnam exam performance based on classification techniques.
-- **McGill Finance Hackathon**: Competing in the McGill Finance Hackathon, focusing on quantitative trading strategies and data-driven financial predictions. Check out the project [here](https://github.com/IsaiahIruoha/ml-algorithmic-trading/)
-
-### 💼 Past Work Experience:
-- **Data Science Intern at RBC (2024)**: 
-   - Implemented time series forecasting models using Meta's Prophet and LSTM neural networks, reducing error by 50%.
-   - Led a team of 3 to refactor codebase, adopt standard coding practices, and migrate the project to GitHub.
-   - Built a dynamic Excel visualization tool to help business stakeholders interact with forecasts.
-  
-- **Data Analyst Intern at RBC (2023)**:
-   - Automated weekly visualization of key business metrics for executives using Python, saving 8 hours weekly.
-   - Conducted time series analysis to forecast call center volumes with SARIMA, achieving <5% error in predictions.
-   - Designed and taught a Python course focused on forecasting applications to a team of 12.
-
-📫 Reach me at jackswitzer3@gmail.com or jack.switzer@queensu.ca
-
-📄 Take a look at my [Resume Here](https://github.com/JackSwitzer/JackSwitzer/blob/main/JackSwitzerResume.pdf)
+## 📊 The Stats:
 
 ---
 
-## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/jack-switzer-/)
-
----
-
-## 📊 Jack's GitHub Stats:
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackSwitzer&count_private=true&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackSwitzer&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackSwitzer&theme=default)
-
----
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackSwitzer&theme=Merko" alt="GitHub Streak" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JackSwitzer&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" style="width: 48%;">
+</div>
 
