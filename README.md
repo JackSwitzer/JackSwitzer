@@ -3,7 +3,7 @@
 I am a Third-Year Applied Mathematics and Computer Engineering Student at Queen's University, with interests in training large neural networks, artificial intelligence, and quantitative finance.
 
 🚀 I’m currently working on:
-- **Putnam Classification & Prediction**: Developing models for predicting Putnam exam performance based on classification techniques. Check out the project [here](https://github.com/JackSwitzer/PutnamPrediction).
+- **Putnam Classification & Prediction**: Developing models for predicting Putnam exam performance based on classification techniques.
 - **McGill Finance Hackathon**: Competing in the McGill Finance Hackathon, focusing on quantitative trading strategies and data-driven financial predictions. Check out the project [here](https://github.com/IsaiahIruoha/ml-algorithmic-trading/)
 
 ### 💼 Past Work Experience:
