@@ -34,9 +34,9 @@ I am a Third-Year Applied Mathematics and Computer Engineering Student at Queen'
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackSwitzer&count_private=true&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackSwitzer&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackSwitzer&layout=compact&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackSwitzer&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackSwitzer&theme=default)
 
 ---
 
