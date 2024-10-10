@@ -2,6 +2,8 @@
 
 3rd Year Applied Math & Comp Eng @ Queen's University
 
+Full time NYT Connections Warrior
+
 ## 📊 The Stats:
 ---
 <table>
