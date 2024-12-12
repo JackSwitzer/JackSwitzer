@@ -4,7 +4,7 @@
 Part-time NYT Connections Warrior
 
 ## 📊 The Stats:
-## 📊 The Stats:
+refactor rn, testing how to make these myself
 ---
 <table>
   <tr>
