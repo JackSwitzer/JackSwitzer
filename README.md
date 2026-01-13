@@ -1,7 +1,7 @@
 # Jack Switzer
-3rd Year Applied Math & Comp Eng @ Queen's University
+pre 4th year Math & Comp Eng @ Queen's University
 
-Part-time NYT Connections Warrior
+part time reader full time learner
 
 ## The Stats:
 Under Construction
