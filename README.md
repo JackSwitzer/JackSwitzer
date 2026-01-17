@@ -1,7 +1,7 @@
 # Jack Switzer
 pre 4th year Math & Comp Eng @ Queen's University
 
-part time reader full time learner
+claude code enthusiast
 
 ## The Stats:
 Under Construction
